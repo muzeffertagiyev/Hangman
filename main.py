@@ -13,6 +13,7 @@ lives=6
 
 print(logo)
 
+#  this code below is just for testing
 print(f"psss word is {random_word}")
 
 
